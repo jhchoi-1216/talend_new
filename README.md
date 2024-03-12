@@ -1,5 +1,5 @@
 # talend_new
-echo "# git-test" >> README.md
+echo "# talend_new" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
