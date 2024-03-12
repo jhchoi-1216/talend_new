@@ -1,5 +1,4 @@
 # talend_new
-talend_new_public
 git init
 git add README.md
 git commit -m "first commit"
